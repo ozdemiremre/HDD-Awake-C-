@@ -8,7 +8,7 @@
  - Open it. 
  - Select a directory inside the HDD that you want to keep awake.
  - Select the time interval that the app will write to the disk.
- - Start writing!
+ - Click Start writing!
  - The app will auto minimize after 5 seconds.
  - **Done!**
  
